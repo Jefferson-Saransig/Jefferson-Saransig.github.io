@@ -37,12 +37,10 @@ My academic background is in education and language teaching. I am interested in
 
 - My photo *"Muyu Raymi"* from my 2025 Summer fieldwork is part of the exhibition *"14th Field Notes Student Photography Exhibition"* at the Benson Library right now!
 - Presentation on *“Día de los Muertos in Ecuador”* at  
-  [Día de Muertos, Pasado y Presente: Community Arts & Culture Event](https://global.utexas.edu/events/dia-de-muertos-pasado-y-presente-community-arts-culture-event),  
-  hosted by the LLILAS Indigenous Languages Initiative, November 2025  
+  [Día de Muertos, Pasado y Presente: Community Arts & Culture Event](https://global.utexas.edu/events/dia-de-muertos-pasado-y-presente-community-arts-culture-event), hosted by the LLILAS Indigenous Languages Initiative, November 2025  
 
 - Interview featured in [*The Daily Texan*](https://thedailytexan.com/2025/10/28/dia-de-muertos-tradiciones-e-identidad-cultural-en-la-universidad/), November 2025  
 
 - Participant in the discussion following 
-[*“Echoes of Quechua: Documentary Screening and Discussion”*](https://liberalarts.utexas.edu/nais/events/echoes-of-quechua-documentary-screening-and-discussion),  
-hosted by Native American and Indigenous Studies, October 2025.
+[*“Echoes of Quechua: Documentary Screening and Discussion”*](https://liberalarts.utexas.edu/nais/events/echoes-of-quechua-documentary-screening-and-discussion), hosted by Native American and Indigenous Studies, October 2025.
 
