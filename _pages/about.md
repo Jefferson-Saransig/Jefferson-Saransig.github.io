@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student at the University of Texas at Austin
+I am a graduate student at the University of Texas at Austin. I am part of the Documentary and descriptive linguistics group under the supervision of Dr Woodbury. My reasearch interests include language contact, sociolinguistics, bilingualism, and Ecuadorian Kichwa (ISO 639-3: qvi).
+
+I am currently working on 1) the topic marker -ka in conditional sentences, 2) Unified and Local Kichwa (linguistic epidemiology) and 3) discourse markers in Imbabura Kichwa.
 
 Jefferson's personal website
 ======
