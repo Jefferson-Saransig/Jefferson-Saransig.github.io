@@ -15,7 +15,7 @@ My current research projects focus on:
 2. Unified and local varieties of Kichwa, approached from a linguistic epidemiology perspective  
 3. The use and interpretation of discourse markers in Imbabura Kichwa  
 
-My academic background is in education and language teaching. I am particularly interested in collaborative projects related to language documentation, revitalization, pedagogy, and bilingual education.
+My academic background is in education and language teaching. I am interested in collaborating with projects related to language documentation, revitalization, pedagogy, and bilingual education (contact me!).
 
 ## Education
 
@@ -41,8 +41,10 @@ My academic background is in education and language teaching. I am particularly 
 
 - Interview featured in *The Daily Texan*, November 2025  
 
-- Participant in the discussion following *“Echoes of Quechua: Documentary Screening and Discussion”*,  
-  hosted by Native American and Indigenous Studies, October 2025  
+- Participant in the discussion following 
+[*“Echoes of Quechua: Documentary Screening and Discussion”*](https://liberalarts.utexas.edu/nais/events/echoes-of-quechua-documentary-screening-and-discussion),  
+hosted by Native American and Indigenous Studies, October 2025.
+
 
 Create content & metadata
 ------
