@@ -25,9 +25,11 @@ Education
 
 News
 ======
-1. Presented at VI International Seminar “Revitalizando Ando”, Quito, Ecuador, 2023 "A content analysis of lexical borrowings in Imbabura Kichwa
-"
-1. Presented at 8º Congreso Internacional de Antropología AIBR, 2022, Creando legados in Salamanca, Spain (online) "MULTISENSORY SHADOWING TO ENHANCE THE INTONATION OF POLAR AND OPEN-ENDED QUESTIONS IN A2 UNIVERSITY STUDENTS IN QUITO"
+1. (May 2025) I started my fieldwork in Imbabura, Ecuador. Thanks to Thinker grant and Shelt
+2. (August, 2024) I am starting my Ph.D. in Linguistics at the University of Texas
+3. (November, 2023) Presented at VI International Seminar “Revitalizando Ando”, Quito, Ecuador, 2023 "A content analysis of lexical borrowings in Imbabura Kichwa"
+4. (May, 2023)Finished my Fulbright teaching assitanship at the University of Notre Dame
+1. (July, 2022) Presented at 8º Congreso Internacional de Antropología AIBR, 2022, Creando legados in Salamanca, Spain (online) "MULTISENSORY SHADOWING TO ENHANCE THE INTONATION OF POLAR AND OPEN-ENDED QUESTIONS IN A2 UNIVERSITY STUDENTS IN QUITO"
 
 Site-wide configuration
 ------
