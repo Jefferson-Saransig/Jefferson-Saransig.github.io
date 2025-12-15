@@ -25,15 +25,15 @@ Education
 
 News
 ======
-1. (May 2025) I started my fieldwork in Imbabura, Ecuador. Thanks to Thinker grant and Shelt
-2. (August, 2024) I am starting my Ph.D. in Linguistics at the University of Texas
-3. (November, 2023) Presented at VI International Seminar “Revitalizando Ando”, Quito, Ecuador, 2023 "A content analysis of lexical borrowings in Imbabura Kichwa"
-4. (May, 2023)Finished my Fulbright teaching assitanship at the University of Notre Dame
+2. (May 2025) I started my fieldwork in Imbabura, Ecuador. Thanks to 2024-2025 Summer Tinker Graduate Research Grant and Sherzer Grant
+3. (August, 2024) I am starting my Ph.D. in Linguistics at the University of Texas
+4. (November, 2023) Presented at VI International Seminar “Revitalizando Ando”, Quito, Ecuador, 2023 "A content analysis of lexical borrowings in Imbabura Kichwa"
+5. (May, 2023)Finished my Fulbright teaching assitanship at the University of Notre Dame
 1. (July, 2022) Presented at 8º Congreso Internacional de Antropología AIBR, 2022, Creando legados in Salamanca, Spain (online) "MULTISENSORY SHADOWING TO ENHANCE THE INTONATION OF POLAR AND OPEN-ENDED QUESTIONS IN A2 UNIVERSITY STUDENTS IN QUITO"
 
-Site-wide configuration
+In the media
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- presented on "Dia de los muertos en Ecuador" at ["Día de Muertos, Pasado y Presente: Community Arts & Culture Event"] (https://global.utexas.edu/events/dia-de-muertos-pasado-y-presente-community-arts-culture-event) by The LLILAS Indigenous Languages Initiative
 
 Create content & metadata
 ------
