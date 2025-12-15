@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Linguistics at the University of Texas at Austin. I am affiliated with the Documentary and Descriptive Linguistics group and work under the supervision of Dr. Anthony Woodbury. My research interests include language contact, sociolinguistics, bilingualism, and Ecuadorian Kichwa (ISO 639-3: *qvi*).
+I am a Ph.D. student in Linguistics at the University of Texas at Austin. I am a member of the Documentary and Descriptive Linguistics group and work under the supervision of Dr. Anthony Woodbury. My research interests include language contact, sociolinguistics, bilingualism, and Ecuadorian Kichwa (ISO 639-3: *qvi*).
 
 My current research projects focus on:
 
