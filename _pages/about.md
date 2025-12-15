@@ -34,6 +34,8 @@ News
 In the media
 ------
 - presented on "Dia de los muertos en Ecuador" at ["Día de Muertos, Pasado y Presente: Community Arts & Culture Event"] (https://global.utexas.edu/events/dia-de-muertos-pasado-y-presente-community-arts-culture-event) November, 2025, by The LLILAS Indigenous Languages Initiative
+- Have a look at my interview by The Daily Texan, November, 2025, here
+- was part of the discussion in "Echoes of Quechua : Documentary Screening and Discussion", October, 2025 by Native American and Indigenous Studies 
 
 Create content & metadata
 ------
