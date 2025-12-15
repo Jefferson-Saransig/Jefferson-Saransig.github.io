@@ -35,7 +35,7 @@ My academic background is in education and language teaching. I am interested in
 
 ## In the Media
 
-- My photo *"Muyu Raymi"* from my 2025 Summer fieldwork is part of the exhibition *"14th Field Notes Student Photography Exhibition"* right now!
+- My photo *"Muyu Raymi"* from my 2025 Summer fieldwork is part of the exhibition *"14th Field Notes Student Photography Exhibition"* at the Benson Library right now!
 - Presentation on *“Día de los Muertos in Ecuador”* at  
   [Día de Muertos, Pasado y Presente: Community Arts & Culture Event](https://global.utexas.edu/events/dia-de-muertos-pasado-y-presente-community-arts-culture-event),  
   hosted by the LLILAS Indigenous Languages Initiative, November 2025  
