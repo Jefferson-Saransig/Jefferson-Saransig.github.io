@@ -9,9 +9,14 @@ redirect_from:
 
 I am a graduate student at the University of Texas at Austin. I am part of the Documentary and descriptive linguistics group under the supervision of Dr Woodbury. My reasearch interests include language contact, sociolinguistics, bilingualism, and Ecuadorian Kichwa (ISO 639-3: qvi).
 
-I am currently working on 1) the topic marker -ka in conditional sentences, 2) Unified and Local Kichwa (linguistic epidemiology) and 3) discourse markers in Imbabura Kichwa.
+I am currently working on 
+- 1) the topic marker -ka in conditional sentences,
+- 2) Unified and Local Kichwa (linguistic epidemiology)
+- 3) discourse markers in Imbabura Kichwa.
 
-Jefferson's personal website
+My background is in education and language teaching, so if you have any projects on any of those those topics, contact me.
+
+Education
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
