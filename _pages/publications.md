@@ -2,7 +2,6 @@
 title: Publications
 permalink: /publications/
 ---
-## Journal Articles
 {% for publication in site.publications %}
 {% if publication.category == "journal-article" %}
 - {{ publication.citation }}
