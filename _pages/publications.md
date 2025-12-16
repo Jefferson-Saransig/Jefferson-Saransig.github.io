@@ -2,8 +2,7 @@
 title: Publications
 permalink: /publications/
 ---
-{% assign sorted_publications = site.publications | sort: 'order' %}
-{% for publication in sorted_publications %}
+{% for publication in site.publications %} {% if publication.category == "journal-article" %}
 - {{ publication.citation }}
 {% endif %}
 {% endfor %}
