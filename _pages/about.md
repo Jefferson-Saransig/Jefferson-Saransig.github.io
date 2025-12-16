@@ -44,3 +44,7 @@ My academic background is in education and language teaching. I am interested in
 - Participant in the discussion following 
 [*“Echoes of Quechua: Documentary Screening and Discussion”*](https://liberalarts.utexas.edu/nais/events/echoes-of-quechua-documentary-screening-and-discussion), hosted by Native American and Indigenous Studies, October 2025.
 
+## Contact
+Email: js228258(at)my(dot)utexas(dot)edu
+
+
