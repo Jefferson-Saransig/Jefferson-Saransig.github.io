@@ -3,7 +3,6 @@ title: Publications
 permalink: /publications/
 ---
 
-## Journal Articles
 {% assign journal_articles = site.publications | where: "category", "journal-article" | sort: "date" | reverse %}
 {% for publication in journal_articles %}
 - {{ publication.citation }}
