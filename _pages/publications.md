@@ -2,8 +2,10 @@
 title: Publications
 permalink: /publications/
 ---
-## Journal Articles
-
-{% for publication in site.publications %}
+{% for publication in site.publications reversed %}
 - {{ publication.citation }}
 {% endfor %}
+
+---
+
+Find me on [Google Scholar](https://scholar.google.com/citations?user=YOUR_USER_ID_HERE)
