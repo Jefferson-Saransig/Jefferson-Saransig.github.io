@@ -2,7 +2,7 @@
 title: Publications
 permalink: /publications/
 ---
-{% assign sorted_publications = site.publications | sort: 'date' | reverse %}
+{% assign sorted_publications = site.publications | sort: 'order' %}
 {% for publication in sorted_publications %}
 - {{ publication.citation }}
 {% endif %}
