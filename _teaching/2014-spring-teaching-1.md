@@ -1,5 +1,5 @@
 ---
-title: "Quechua "
+title: "LLRO 10101 Beginning Quechua I"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
@@ -8,4 +8,4 @@ date: 2022-08-01
 location: "Notre Dame, United States"
 ---
 
-FALL 2022
+FALL 2022-Principal Instructor
