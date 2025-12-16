@@ -1,6 +1,6 @@
 ---
-title: Publications
-permalink: /publications/
+title: Publicationz
+permalink: /publicationz/
 ---
 
 ## Journal Articles
